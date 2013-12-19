@@ -4,5 +4,5 @@ Access the AppOps feature without root access or any kind of modification anywhe
 
 Requirements:
 
-1. Android device with Android 4.4.2
+1. Android device with Android 4.4.2 or above
 
